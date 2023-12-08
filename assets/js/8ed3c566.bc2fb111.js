@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbhukamatha=self.webpackChunkbhukamatha||[]).push([[2952],{662:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/bhukamathaweb/docs/blog/tags/facebook","allTagsPath":"/bhukamathaweb/docs/blog/tags","count":1,"unlisted":false}')}}]);
